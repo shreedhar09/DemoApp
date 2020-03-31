@@ -1,7 +1,5 @@
 let defaultState = {
-  userData:[],
-  editflag:false
-  
+  userData:[]  
 }
 
 
